@@ -35,7 +35,7 @@
                     "name": "PHP",
                     "number_of_years": 1
                 },
-		{
+		            {
                     "name": "bash",
                     "number_of_years": 1
                 }
@@ -53,7 +53,7 @@
                     "name": "XML",
                     "number_of_years": 3
                 },
-		{
+		            {
                     "name": "XSL",
                     "number_of_years": 2
                 },
@@ -125,7 +125,16 @@
            "endDate": "Present",
            "summary": "Create web applications using PHP",
            "hightlights": [ ],
-           "projects": []
+           "projects": [
+              {
+                "name": "Coca-Cola Toolkit",
+                "description": "Acted as support, worked on debugging and fix",
+                "role": "Backend Developer",
+                "startDate": "April 2017",
+                "endDate": "December 2016",
+                "technologies": "PHP, Laravel, mySQL"
+              },
+           ]
        },
        {
            "company": "Xtenit Philippines Inc",
