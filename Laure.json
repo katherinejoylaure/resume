@@ -1,0 +1,166 @@
+{
+    "basics": {
+        "name": "Katherine Joy Laure",
+        "label": "Web Application Developer",
+        "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAa7AAAAJDJmM2FmNmFiLTRjOGYtNDgzOC04YjQ5LWE3MWJiNjM2ODMzYg.jpg",
+        "email": "",
+        "phone": "+639178208435"
+    },
+    "education": [
+        {
+            "institution": "University of the Philippines Los Banos",
+            "course": "Computer Science",
+            "studyType": "Bachelor",
+            "startDate": "2009",
+            "endDate": "2013"
+        }
+    ],
+    "skills": [
+        {
+            "category": "Programming Languages",
+            "technologies": [
+                {
+                    "name": "Java",
+                    "number_of_years": 3
+                },
+                {
+                    "name": "C",
+                    "number_of_years": 2
+                },
+                {
+                    "name": "C#",
+                    "number_of_years": 1
+                },
+              	{
+                    "name": "PHP",
+                    "number_of_years": 1
+                },
+		{
+                    "name": "bash",
+                    "number_of_years": 1
+                }
+
+            ]
+        },
+        {
+            "category": "Web Technologies",
+            "technologies": [
+                {
+                    "name": "HTML",
+                    "number_of_years": 3
+                },
+                {
+                    "name": "XML",
+                    "number_of_years": 3
+                },
+		{
+                    "name": "XSL",
+                    "number_of_years": 2
+                },
+                {
+                    "name": "CSS",
+                    "number_of_years": 1
+                }
+            ]
+        },
+        {
+            "category": "Development Frameworks",
+            "technologies": [
+               {
+                   "name": "yii",
+                   "number_of_years": 1
+               }
+            ]
+        },
+        {
+           "category": "Databases",
+           "technologies": [
+               {
+                   "name": "postgres",
+                   "number_of_years": 1
+               },
+               {
+                   "name": "mysql",
+                   "number_of_years": 1
+               }
+           ]
+        },        
+        {
+           "category": "Version Control",
+           "technologies": [
+               {
+                   "name": "cvs",
+                   "number_of_years": 3
+               }
+           ]
+        },
+        {
+           "category": "Operating System",
+           "technologies": [ 
+               {
+                   "name": "Linux",
+                   "number_of_years": 3
+               },
+               {
+                   "name": "Windows",
+                   "number_of_years": 3
+               }
+           ]
+        },        
+        {
+           "category": "Integrated Development Environment",
+           "technologies": [
+               {
+                   "name": "jEdit",
+                   "number_of_years": 3
+               }
+           ]
+        }
+    ],
+    "work": [
+       {
+           "company": "Flight Digital Media",
+           "position": "Web Application Developer",
+           "startDate": "April 2017",
+           "endDate": "Present",
+           "summary": "Create web applications using PHP",
+           "hightlights": [ ],
+           "projects": []
+       },
+       {
+           "company": "Xtenit Philippines Inc",
+           "position": "Software Developer",
+           "startDate": "August 2013",
+           "endDate": "March 2017",
+           "summary": "Develop applications using Java, XML, XSL, XHTML",
+           "hightlights": [ ],
+           "projects": [
+              {
+                "name": "XML to ICS converter",
+                "description": "Created a class that converts ics(icalendar) format to xml format and vice-versa",
+                "role": "Backend Developer",
+                "startDate": "June 2015",
+                "endDate": "December 2016",
+                "technologies": "Java, ical4j"
+              },
+              {
+                "name": "Support search of file/directory across all folders",
+                "description": "Added support for searching certain file or folder in all available directories(previously will only search on current directory).",
+                "role": "Backend Developer",
+                "startDate": "September 2016",
+                "endDate": "October 2016",
+                "technologies": "Java, XML"
+              },
+              {
+                "name": "Shell script using inotify-tools",
+                "description": "Created a shell script for handling new files being accessed on a directory(copied to another file but with different extension used)",
+                "role": "Backend Developer",
+                "startDate": "October 2013",
+                "endDate": "November 2013",
+                "technologies": "bash with inotify-tools"
+              }
+           ]
+       }
+    ]
+}
+
