@@ -3,7 +3,7 @@
         "name": "Katherine Joy Laure",
         "label": "Web Application Developer",
         "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAa7AAAAJDJmM2FmNmFiLTRjOGYtNDgzOC04YjQ5LWE3MWJiNjM2ODMzYg.jpg",
-        "email": "",
+        "email": "joy.laure@flightdigitalmedia.com",
         "phone": "+639178208435"
     },
     "education": [
@@ -38,8 +38,11 @@
 		            {
                     "name": "bash",
                     "number_of_years": 1
+                },
+                {
+                    "name": "Javascript",
+                    "number_of_years": 1
                 }
-
             ]
         },
         {
@@ -69,6 +72,10 @@
                {
                    "name": "yii",
                    "number_of_years": 1
+               },
+               {
+                   "name": "Laravel",
+                   "number_of_years": 0.2
                }
             ]
         },
@@ -84,37 +91,6 @@
                    "number_of_years": 1
                }
            ]
-        },        
-        {
-           "category": "Version Control",
-           "technologies": [
-               {
-                   "name": "cvs",
-                   "number_of_years": 3
-               }
-           ]
-        },
-        {
-           "category": "Operating System",
-           "technologies": [ 
-               {
-                   "name": "Linux",
-                   "number_of_years": 3
-               },
-               {
-                   "name": "Windows",
-                   "number_of_years": 3
-               }
-           ]
-        },        
-        {
-           "category": "Integrated Development Environment",
-           "technologies": [
-               {
-                   "name": "jEdit",
-                   "number_of_years": 3
-               }
-           ]
         }
     ],
     "work": [
@@ -123,16 +99,18 @@
            "position": "Web Application Developer",
            "startDate": "April 2017",
            "endDate": "Present",
-           "summary": "Create web applications using PHP",
+           "summary": "Create RESTful web applications using PHP.",
            "hightlights": [ ],
            "projects": [
               {
-                "name": "Coca-Cola Toolkit",
-                "description": "Acted as support on an application that serves as repository of Coca-Cola's assets, worked mostly on debugging and fix. Able to add download product catalogue feature.",
+                "name": "Coca-Cola 3D Toolkit",
+                "description": "Support an application that serves as the repository of Coca-Cola's assets like images, SKUs, 
+                bar codes, and product catalogue. Users will be able to easily access assets that are necessary for them.",
                 "role": "Backend Developer",
                 "startDate": "April 2017",
                 "endDate": "Present",
-                "technologies": "PHP, Laravel, mySQL"
+                "months":"(2 months)",
+                "technologies": "PHP, Laravel, mySQL, CSS, HTML"
               }
            ]
        },
@@ -141,7 +119,7 @@
            "position": "Software Developer",
            "startDate": "August 2013",
            "endDate": "March 2017",
-           "summary": "Develop applications using Java, XML, XSL, XHTML",
+           "summary": "Develop web application for publishing companies to support their email scheduling and sending.",
            "hightlights": [ ],
            "projects": [
               {
@@ -150,6 +128,7 @@
                 "role": "Backend Developer",
                 "startDate": "June 2015",
                 "endDate": "December 2016",
+                "months":"(18 months)",
                 "technologies": "Java, ical4j"
               },
               {
@@ -158,7 +137,8 @@
                 "role": "Backend Developer",
                 "startDate": "September 2016",
                 "endDate": "October 2016",
-                "technologies": "Java, XML"
+                "months":"(1 month)",
+                "technologies": "Java, XML, XSL"
               },
               {
                 "name": "Shell script using inotify-tools",
@@ -166,6 +146,7 @@
                 "role": "Backend Developer",
                 "startDate": "October 2013",
                 "endDate": "November 2013",
+                "months:":"(1 month)",
                 "technologies": "bash with inotify-tools"
               }
            ]
