@@ -124,7 +124,8 @@
            "projects": [
               {
                 "name": "XML to ICS converter",
-                "description": "Created a class that converts ics(icalendar) format to xml format and vice-versa",
+                "description": "Created a class that converts ics(icalendar) format to xml format and vice-versa,
+                 this is used by publishing companies for adding and scheduling their events.",
                 "role": "Backend Developer",
                 "startDate": "June 2015",
                 "endDate": "December 2016",
@@ -141,6 +142,15 @@
                 "technologies": "Java, XML, XSL"
               },
               {
+                "name": "Fix for image resize",
+                "description": "Added a fix for existing class having error when resizing images and thumbnails for certain file.",
+                "role": "Backend Developer",
+                "startDate": "September 2016",
+                "endDate": "December 2016",
+                "months":"(3 months)",
+                "technologies": "Java, im4java"
+              }, 
+              {
                 "name": "Shell script using inotify-tools",
                 "description": "Created a shell script for handling new files being accessed on a directory(copied to another file but with different extension used)",
                 "role": "Backend Developer",
@@ -148,7 +158,7 @@
                 "endDate": "November 2013",
                 "months":"(1 month)",
                 "technologies": "bash with inotify-tools"
-              }
+              }              
            ]
        }
     ]
