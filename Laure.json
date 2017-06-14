@@ -83,7 +83,7 @@
            "category": "Databases",
            "technologies": [
                {
-                   "name": "postgres",
+                   "name": "postgresql",
                    "number_of_years": 1
                },
                {
@@ -146,7 +146,7 @@
                 "role": "Backend Developer",
                 "startDate": "October 2013",
                 "endDate": "November 2013",
-                "months:":"(1 month)",
+                "months":"(1 month)",
                 "technologies": "bash with inotify-tools"
               }
            ]
